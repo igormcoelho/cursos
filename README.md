@@ -2,7 +2,7 @@
 
 Essa página lista os cursos do prof Igor Machado Coelho disponibilizados abertamente no GitHub.
 
-**IMPORTANTE:** esse repositório não deve ser habilitado como GitHub pages, para evitar conflito com a página "mais bonitinha" equivalente do site: https://igormcoelho.github.io/cursos/
+**IMPORTANTE:** esse repositório não deve ser habilitado como GitHub pages, para evitar conflito com a página "mais bonitinha" equivalente do site pessoal: https://igormcoelho.github.io/cursos/
 
 ## Cursos em Português (PT-BR)
 
