@@ -24,6 +24,8 @@ Atualizações em andamento.
 ## Courses in English
 
 - Multiobjective Optimization: [igormcoelho/course-multiobjective-optimization](https://github.com/igormcoelho/course-multiobjective-optimization)
+   * Some topics from the course: ...
+   * ![last-commit](https://img.shields.io/github/last-commit/igormcoelho/course-multiobjective-optimization)
 
 Still not fully updated.
 
